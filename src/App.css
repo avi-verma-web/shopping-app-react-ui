@@ -1,0 +1,5 @@
+/* react default margin from browser */
+*{
+  margin:0;
+  overflow: auto;
+}
